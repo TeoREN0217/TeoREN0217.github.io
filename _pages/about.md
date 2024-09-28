@@ -88,7 +88,7 @@ Guankun Wang, **Tian-Ao Ren**, Jiewen Lai, Long Bai, and Hongliang Ren
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARSO2024</div><img src='images/domain.gif' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARSO2024</div><img src='images/domain.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Navigation of Tendon-driven Flexible Robotic Endoscope through Deep Reinforcement Learning**
@@ -98,7 +98,7 @@ Chikit Ng, Huxin Gao, **Tian-Ao Ren**, Jiewen Lai, and Hongliang Ren
 - [Paper](https://ieeexplore.ieee.org/document/10557794)
 
 </div>
-</div>
+</div> -->
 
 
 # 💬 Projects
