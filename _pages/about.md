@@ -69,11 +69,11 @@ J. Lai, **T.-A. Ren (Co-first author)**, W. Yue, S. Su, J. Y. K. Chan, and H. Re
 </div>
 
 <!-- <div class='paper-box'> -->
-<div class='paper-box' style="display: flex; justify-content: space-between;">
+<!-- <div class='paper-box' style="display: flex; justify-content: space-between;">
 <div class='paper-box-image'><div><div class="badge">Experiment Setup</div><img src='images/Experiment_Setup.png' alt="sym" width="150%"></div></div>
 <div class='paper-box-image'><div><div class="badge">Autonomous Navigation</div><img src='images/Autonomous_Navigation.gif' alt="sym" width="150%"></div></div>
 </div>
-
+ -->
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MBEC</div><img src='images/domain.gif' alt="sym" width="100%"></div></div>
@@ -88,7 +88,31 @@ Guankun Wang, **Tian-Ao Ren**, Jiewen Lai, Long Bai, and Hongliang Ren
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARSO2024</div><img src='images/domain.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Navigation of Tendon-driven Flexible Robotic Endoscope through Deep Reinforcement Learning**
+
+Chikit Ng, Huxin Gao, **Tian-Ao Ren**, Jiewen Lai, and Hongliang Ren
+
+- [Paper](https://ieeexplore.ieee.org/document/10557794)
+
+</div>
+</div>
+
+
 # 💬 Projects
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BDML&SRC 24Summer</div><img src='images/wrist.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Robust, torque controlled serial 2-DoF wrist design**
+
+- [Robust Wrist Teleoperation in Cabinet with Flexiv and LeapHand](https://www.youtube.com/watch?v=OcnwJKfT_B4)
+
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BDML 24Spring</div><img src='images/haselsofa.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
