@@ -19,7 +19,7 @@ redirect_from:
 
 🔥**Welcome to My Page!**🔥
 
-I am currently a first-Year Master student in the [Department of Mechanical Engineering](https://me.stanford.edu) at **Stanford University**. I received my Bachelor degree in Robotics Engineering at the [College of Mechanical and Electrical Engineering](https://mech.buct.edu.cn), Beijing University of Chemical Technology (BUCT). My research interests include soft robots, robot navigation, robot learning, medical mechatronics, and healthcare robots.
+I am currently a Second-Year PhD student in the [Department of Mechanical Engineering](https://me.stanford.edu) at **Stanford University**. I received my Bachelor degree in Robotics Engineering at the [College of Mechanical and Electrical Engineering](https://mech.buct.edu.cn), Beijing University of Chemical Technology (BUCT). My research interests include soft robots, robot navigation, robot learning, medical mechatronics, and healthcare robots.
 
 <!-- <img src="images/my.jpg" alt="sym" width="50%" style="display: block; margin: 0 auto;"> -->
 
